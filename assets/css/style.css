@@ -21,7 +21,7 @@ body h3 {
     }
 
     /*This is controlling the header*/
-header {
+.header {
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
